@@ -1,0 +1,6 @@
+[submodule "front"]
+	path = front
+	url = git@github.com:MaximeMalecot/challenge_s1_g6_front.git
+[submodule "api"]
+	path = api
+	url = git@github.com:MaximeMalecot/challenge_s1_g6_api.git
